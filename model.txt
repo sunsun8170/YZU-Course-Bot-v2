@@ -1,0 +1,5 @@
+Download the fine-tuned TrOCR-small-printed model at the link below:
+
+https://drive.google.com/file/d/1_zEmTNjaevJnwrT7yxvuqtzvu7SfWvw-/view?usp=sharing
+
+unzip the file and place it at the same directory with bot.py
