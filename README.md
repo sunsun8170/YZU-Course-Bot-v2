@@ -32,7 +32,7 @@
 
 ### 基本設定
 
-1. [下載](https://github.com/sunsun8170/yzuCourseBotV2/archive/refs/heads/main.zip)此專案，並解壓縮
+1. [下載](https://github.com/sunsun8170/YZU-Course-Bot-v2/archive/refs/heads/main.zip)此專案，並解壓縮
 2. 於解壓縮後的資料夾中，找到 `course_list.json`，使用文字編輯器打開。
     打開後，你會看到內容如下。
 
